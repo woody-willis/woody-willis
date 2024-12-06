@@ -4,7 +4,7 @@
 <p align="center"><b>Are you a young entrepreneur? Do you have an idea and want to bring it to life but don't have the money or the skills?</b> Shoot me an email or connect with me on LinkedIn below! I love to hear about new and innovative ideas and may even be able to help you along in your journey!</p>
 
 <h3 align="left">GitHub Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woody-willis" alt="woody-willis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woody-willis&margin-w=10&theme=chalk&no-frame=true" alt="woody-willis" /></a> </p>
 
 - 🔭 I’m currently working on [Trainly](https://trainly.co.uk)
 
