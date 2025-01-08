@@ -12,13 +12,11 @@
 
 - 💼 I work part-time at [Target Professional Services](https://targetprofessional.co.uk)
 
-- 👯 I’m participating in [Advent Of Code](https://adventofcode.com)
-
 - 🤝 I’m looking for help with [BookSearcher](https://booksearcher.co.uk)
 
 - 👨‍💻 All of my projects are available at [https://woodywillis.co.uk](https://woodywillis.co.uk)
 
-- 💬 Ask me about **NodeJS, Flutter and Trains**
+- 💬 Ask me about **NodeJS, Flutter and UK Rail Technologies**
 
 - 📫 How to reach me: **woody@trainly.co.uk**
 
