@@ -6,6 +6,8 @@
 <h3 align="left">GitHub Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woody-willis&margin-w=10&theme=chalk&no-frame=true" alt="woody-willis" /></a> </p>
 
+<p align="left"> <a href="https://hackatime.hackclub.com"><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=4544&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="woody-willis" /></a> </p>
+
 - 🔭 I’m currently working on [Trainly](https://trainly.co.uk)
 
 - 🌱 I’m currently learning **Firebase & GCP**
