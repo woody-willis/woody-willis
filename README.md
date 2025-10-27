@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Woody</h1>
-<h3 align="center">A 16 year old developer from England</h3>
+<h3 align="center">A 17 year old developer from England</h3>
 
 <h3 align="left">GitHub Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woody-willis&margin-w=10&theme=chalk&no-frame=true" alt="woody-willis" /></a> </p>
